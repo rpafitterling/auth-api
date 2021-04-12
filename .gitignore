@@ -1,0 +1,4 @@
+app/models/__pycache__/*
+*.pyc
+.vscode/
+/app/auth.db
